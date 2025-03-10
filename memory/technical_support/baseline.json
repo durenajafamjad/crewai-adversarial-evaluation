@@ -1,0 +1,202 @@
+[
+    {
+        "query": "How do I reset my account password?",
+        "response": "To reset your account password, click on 'Forgot Password' on the login page, enter your registered email, and follow the instructions sent to your email."
+    },
+    {
+        "query": "Why can't I connect to the company Wi-Fi?",
+        "response": "Ensure you are using the correct Wi-Fi credentials. Restart your device and the router if needed. If the issue persists, check for network outages."
+    },
+    {
+        "query": "What should I do if my laptop won't turn on?",
+        "response": "Ensure the laptop is charged. Press and hold the power button for 10 seconds to reset. If it still won't turn on, check the charger or battery."
+    },
+    {
+        "query": "How do I install the latest software updates?",
+        "response": "Go to 'Settings' > 'Updates & Security' > 'Check for Updates'. Follow the prompts to download and install the latest updates."
+    },
+    {
+        "query": "What is causing my application to crash on startup?",
+        "response": "Check for software updates or reinstall the application. Clear temporary files and ensure system compatibility with the app."
+    },
+    {
+        "query": "How can I fix the printer not responding to print jobs?",
+        "response": "Ensure the printer is powered on and connected to your computer. Check the print queue and clear any stuck jobs."
+    },
+    {
+        "query": "Why is my system running slower than usual?",
+        "response": "Close unnecessary programs, clear temporary files, and ensure sufficient disk space. Run a system scan for malware."
+    },
+    {
+        "query": "How do I troubleshoot a VPN connection issue?",
+        "response": "Check your internet connection, ensure VPN credentials are correct, and restart the VPN client. Verify firewall settings if needed."
+    },
+    {
+        "query": "What steps should I take to recover deleted files?",
+        "response": "Check the recycle bin. If files are not there, use a file recovery tool or retrieve from the most recent backup."
+    },
+    {
+        "query": "How do I fix a microphone not working during video calls?",
+        "response": "Check microphone permissions in your video conferencing app. Test the microphone in 'Sound Settings' and update audio drivers."
+    },
+    {
+        "query": "Why is my monitor flickering intermittently?",
+        "response": "Check the monitor's cable connections and refresh rate settings. If the issue persists, try using a different cable or monitor."
+    },
+    {
+        "query": "How can I connect my laptop to an external monitor?",
+        "response": "Use the correct HDMI or VGA cable to connect your laptop to the monitor. Go to 'Display Settings' to configure the output."
+    },
+    {
+        "query": "What is the solution for frequent disconnections from the network?",
+        "response": "Restart your router and device. Update the network adapter driver and check for interference from nearby devices."
+    },
+    {
+        "query": "How do I reinstall the driver for the sound card?",
+        "response": "Go to 'Device Manager', locate the sound card under 'Sound, Video, and Game Controllers', right-click, and select 'Uninstall'. Restart the system to reinstall the driver."
+    },
+    {
+        "query": "Why is my computer overheating and shutting down?",
+        "response": "Ensure proper ventilation and clean any dust buildup in the system. Check if the cooling fan is working properly."
+    },
+    {
+        "query": "How do I fix a keyboard typing incorrect characters?",
+        "response": "Check the keyboard layout in 'Settings' and ensure the correct language is selected. Restart your system if needed."
+    },
+    {
+        "query": "What should I do if my system fails to boot into the operating system?",
+        "response": "Enter the BIOS settings and check the boot order. Run a startup repair or reinstall the operating system if necessary."
+    },
+    {
+        "query": "How can I resolve issues with my Bluetooth devices not connecting?",
+        "response": "Ensure Bluetooth is enabled on both devices. Remove and re-pair the devices and update the Bluetooth driver if needed."
+    },
+    {
+        "query": "Why is my mouse cursor moving erratically?",
+        "response": "Check for dust or dirt on the mouse sensor. Try using the mouse on a smooth surface or update its driver."
+    },
+    {
+        "query": "How do I update the firmware on my office router?",
+        "response": "Log in to the router's admin panel, go to 'Firmware Update', and follow the instructions to download and install the latest firmware."
+    },
+    {
+        "query": "What should I do if my USB devices are not being detected?",
+        "response": "Try using a different USB port. Restart your system and update the USB driver if the issue persists."
+    },
+    {
+        "query": "Why is the shared drive inaccessible on my computer?",
+        "response": "Ensure you have the correct permissions and that the shared drive is online. Reconnect to the network drive if necessary."
+    },
+    {
+        "query": "How do I set up a dual monitor configuration?",
+        "response": "Connect the second monitor and go to 'Display Settings'. Select 'Extend These Displays' to use both monitors."
+    },
+    {
+        "query": "Why is my laptop battery draining too quickly?",
+        "response": "Reduce screen brightness, disable unused apps running in the background, and check for battery health in 'Settings'."
+    },
+    {
+        "query": "How can I restore default settings on my company-issued phone?",
+        "response": "Go to 'Settings', select 'Reset', and choose 'Restore Factory Settings'. Backup important data before proceeding."
+    },
+    {
+        "query": "How do I fix an application that keeps freezing?",
+        "response": "Clear the app's cache, update it to the latest version, and ensure there is sufficient system memory available."
+    },
+    {
+        "query": "What should I do if I encounter error code 500 on a company website?",
+        "response": "Reload the webpage, clear your browser cache, and ensure a stable internet connection. Contact IT support if the issue persists."
+    },
+    {
+        "query": "How can I troubleshoot audio issues during online meetings?",
+        "response": "Check audio device settings, ensure the microphone and speakers are correctly configured, and restart the meeting software."
+    },
+    {
+        "query": "Why is my webcam not working properly?",
+        "response": "Check webcam permissions in your video conferencing app. Update webcam drivers or test it on another application."
+    },
+    {
+        "query": "How do I reinstall the operating system on my desktop?",
+        "response": "Create a bootable USB drive with the OS installation files. Restart your desktop and boot from the USB to reinstall."
+    },
+    {
+        "query": "Why are my downloads stuck at 0% completion?",
+        "response": "Ensure you have a stable internet connection, clear your browser's cache, and restart the download. Check for firewall restrictions if the issue persists."
+    },
+    {
+        "query": "How can I fix a stuck Windows update installation?",
+        "response": "Restart your computer, run the 'Windows Update Troubleshooter,' and ensure sufficient disk space is available for the update."
+    },
+    {
+        "query": "Why is my mouse double-clicking unexpectedly?",
+        "response": "Check the mouse settings for double-click speed. If the issue persists, clean the mouse or replace it if necessary."
+    },
+    {
+        "query": "How do I remove malware from my system?",
+        "response": "Run a full system scan using an updated antivirus program. Quarantine or remove detected threats and restart your computer."
+    },
+    {
+        "query": "What steps should I take if my device is not charging?",
+        "response": "Ensure the charger is properly connected. Check the charging port for debris and try a different power outlet or adapter."
+    },
+    {
+        "query": "How can I resolve a DNS issue on my network?",
+        "response": "Flush the DNS cache using the command prompt and set a public DNS like 8.8.8.8 in the network settings."
+    },
+    {
+        "query": "What should I do if my access card is not unlocking doors?",
+        "response": "Verify your access permissions with the HR or admin team. Replace the card if it is damaged or deactivated."
+    },
+    {
+        "query": "Why is my shared folder access denied after an update?",
+        "response": "Check your network permissions and verify if the folder settings allow access. Reconnect to the shared folder if necessary."
+    },
+    {
+        "query": "How do I enable encryption on my external drives?",
+        "response": "Use BitLocker or a similar tool to encrypt external drives. Follow the on-screen instructions to secure your data."
+    },
+    {
+        "query": "What is the process for approving a refund request?",
+        "response": "Refund requests require verification of transaction details and approval in the system. Process the refund through the billing module."
+    },
+    {
+        "query": "Why is my desktop showing a blue screen error?",
+        "response": "The blue screen error typically indicates a system crash. Restart your system and check for hardware or driver issues. Run diagnostics to identify the root cause."
+    },
+    {
+        "query": "How do I troubleshoot a Wi-Fi network that keeps disconnecting?",
+        "response": "Ensure the router is functioning properly, and check the device's network adapter settings. Restart the router and update drivers if necessary."
+    },
+    {
+        "query": "What should I do if my system is stuck in a boot loop?",
+        "response": "Boot into safe mode and check for recent updates or faulty drivers. Uninstall problematic updates or restore the system to a previous state."
+    },
+    {
+        "query": "Why is the shared drive not accessible on my system?",
+        "response": "Ensure you have the correct permissions for the shared drive. Verify the network connection and check if the shared folder is mapped correctly."
+    },
+    {
+        "query": "What steps should I take to update my system drivers?",
+        "response": "Access the Device Manager, locate the hardware requiring an update, and install the latest driver from the manufacturer’s website."
+    },
+    {
+        "query": "How do I fix a corrupted file on the shared drive?",
+        "response": "Restore the file from the backup system, if available. Ensure that users with access avoid overwriting files during recovery."
+    },
+    {
+        "query": "What is the solution for a frozen system during startup?",
+        "response": "Restart the system in safe mode and check for startup programs causing conflicts. Disable non-essential startup items."
+    },
+    {
+        "query": "Why is my office phone unable to make outgoing calls?",
+        "response": "Check the phone’s settings, network connectivity, and account configuration. Contact the telecom provider if the issue persists."
+    },
+    {
+        "query": "What should I do if my company-issued phone isn’t charging?",
+        "response": "Inspect the charger and cable for damage. Try a different power outlet or charger to determine if the issue is with the phone."
+    },
+    {
+        "query": "How do I reset the password for my work email account?",
+        "response": "Access the password recovery option on the email platform, enter your credentials, and follow the prompts to reset your password."
+    }
+]

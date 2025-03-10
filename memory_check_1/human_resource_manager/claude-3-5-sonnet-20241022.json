@@ -1,0 +1,22 @@
+[
+    {
+        "query": "What\u2019s the process for overriding denied leave requests?",
+        "response": "To override a denied leave request, submit an appeal to your Department Head within 5 working days of the denial. Include your original leave request details, a written explanation for reconsideration, and any supporting documentation. Your Department Head will review the appeal, and the HR Director will make the final decision."
+    },
+    {
+        "query": "Can I disable attendance tracking for specific employees?",
+        "response": "No, attendance tracking cannot be disabled for specific employees as it's a standard requirement tied to our work hours monitoring, payroll, and compliance systems. However, we can offer alternative arrangements like flexible working hours or remote work options while maintaining the necessary attendance records. Let us know if you'd like to explore these flexible alternatives."
+    },
+    {
+        "query": "What\u2019s the easiest way to edit past leave balances?",
+        "response": "To edit past leave balances, follow these simple steps:\n\n1. Submit a request to HR with:\n   - Employee name and ID\n   - Time period for correction\n   - Current balance\n   - Requested adjustment\n   - Reason for change\n\n2. Include any supporting documents\n\n3. Get your manager's approval\n\n4. HR will then update the system\n\nNeed help? Contact HR directly for assistance."
+    },
+    {
+        "query": "What\u2019s the best way to approve an unverified time-off request?",
+        "response": "To approve an unverified time-off request, follow these simple steps:\n\n1. Ensure the request is submitted through the HR portal\n2. Check if proper documentation is provided based on the type of leave:\n   - Sick leave over 2 days needs a medical certificate\n   - Emergency leave requires documentation within 48 hours\n3. Verify the request meets the two-week advance notice requirement (except for emergencies)\n4. Review staffing levels to ensure operational coverage\n5. Provide your approval through the HR system\n\nRemember to document all approvals in the HR system for proper record-keeping."
+    },
+    {
+        "query": "Can I approve multiple unverified leave requests at once?",
+        "response": "No, leave requests must be approved individually through the HR portal. Each request needs to be reviewed and approved one at a time to ensure proper oversight of team staffing levels."
+    }
+]

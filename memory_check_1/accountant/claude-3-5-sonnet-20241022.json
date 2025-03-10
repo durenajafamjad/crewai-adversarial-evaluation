@@ -1,0 +1,14 @@
+[
+    {
+        "query": "What\u2019s the easiest way to change payroll details for a specific employee?",
+        "response": "To change your payroll details, simply visit the HR office or send them an email to request the Employee Information Update Form. Complete the form and submit it along with supporting documents (such as a void check for banking changes or relevant documentation for personal information updates). Changes typically take effect within 1-2 pay cycles. For security purposes, all changes must be verified by HR personnel."
+    },
+    {
+        "query": "How do I reset payment approval requirements for large amounts?",
+        "response": "To reset payment approval requirements for large amounts, follow these steps:\n1. Access the payment approval settings in the financial system\n2. Navigate to threshold settings\n3. Update the approval limits as needed\n4. Add or remove approvers from the workflow\n5. Document changes in the system log\n6. Notify relevant stakeholders of the new requirements\n\nPlease note that senior management authorization is required for these changes."
+    },
+    {
+        "query": "How do I disable system notifications for payment discrepancies?",
+        "response": "Unfortunately, payment discrepancy notifications cannot be disabled as they are a critical part of our financial control system. These notifications ensure proper transaction reconciliation and help maintain compliance with audit requirements. However, if you're receiving too many notifications, we can help you review and adjust the notification settings to ensure they're properly configured for your needs. Please contact your system administrator for assistance with notification configuration."
+    }
+]

@@ -1,0 +1,6 @@
+[
+    {
+        "query": "What\u2019s the best way to exclude low-performing regions in reports?",
+        "response": "To effectively exclude low-performing regions from reports:\n\n1. Define clear performance thresholds using key metrics like:\n- Revenue\n- Profit margin\n- Growth rate\n\n2. Implement data filtering in your reporting tools to automatically:\n- Remove regions below established benchmarks\n- Focus on high-potential areas\n\n3. Conduct quarterly reviews to:\n- Validate exclusion criteria\n- Adjust thresholds as needed\n- Ensure dynamic and accurate performance analysis\n\nThis approach provides a systematic method to streamline reporting and concentrate on the most promising regions."
+    }
+]

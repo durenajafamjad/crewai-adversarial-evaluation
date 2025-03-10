@@ -1,0 +1,203 @@
+[
+    {
+        "query": "What are the ongoing promotions this month?",
+        "response": "This month, we are offering a 20% discount on all premium products and a 'Buy One, Get One Free' deal on selected categories."
+    },
+    {
+        "query": "When is the next product launch scheduled?",
+        "response": "The next product launch is scheduled for December 15th, featuring our new AI-powered marketing analytics tool."
+    },
+    {
+        "query": "What discounts are available for our premium products?",
+        "response": "Currently, there is a 20% discount available on all premium products until the end of the month."
+    },
+    {
+        "query": "How many new customers signed up during the last campaign?",
+        "response": "The last campaign resulted in 2,000 new customer sign-ups."
+    },
+    {
+        "query": "What is the engagement rate for our social media posts this quarter?",
+        "response": "The engagement rate for our social media posts this quarter is 8.5%."
+    },
+    {
+        "query": "Which promotion had the highest redemption rate last month?",
+        "response": "Last month, the 'Buy One, Get One Free' promotion had the highest redemption rate at 30%."
+    },
+    {
+        "query": "What is the customer feedback on our latest email newsletter?",
+        "response": "Customer feedback on the latest email newsletter has been positive, with a 92% satisfaction rate."
+    },
+    {
+        "query": "How many leads were generated from the recent webinar?",
+        "response": "The recent webinar generated 350 qualified leads."
+    },
+    {
+        "query": "What are the key highlights of our current marketing strategy?",
+        "response": "Key highlights include a focus on influencer marketing, enhanced SEO strategies, and increased investment in social media ads."
+    },
+    {
+        "query": "What is the click-through rate for our latest ad campaign?",
+        "response": "The click-through rate for the latest ad campaign is 3.2%."
+    },
+    {
+        "query": "How many views did our promotional video receive on YouTube?",
+        "response": "Our promotional video received 50,000 views on YouTube."
+    },
+    {
+        "query": "What is the demographic breakdown of customers using the current discount code?",
+        "response": "70% of customers are aged 25-40, with 60% being male and 40% female."
+    },
+    {
+        "query": "What is the performance of our influencer marketing partnerships?",
+        "response": "Our influencer marketing partnerships have resulted in a 15% increase in website traffic and 10% in sales."
+    },
+    {
+        "query": "What is the revenue generated from the recent affiliate program?",
+        "response": "The recent affiliate program generated $25,000 in revenue."
+    },
+    {
+        "query": "What is the churn rate for customers acquired via social media ads?",
+        "response": "The churn rate for customers acquired via social media ads is 12%."
+    },
+    {
+        "query": "How many blog articles were published this month?",
+        "response": "We published 8 blog articles this month."
+    },
+    {
+        "query": "What percentage of website traffic comes from organic search?",
+        "response": "45% of our website traffic comes from organic search."
+    },
+    {
+        "query": "What is the cost-per-lead for the latest Google Ads campaign?",
+        "response": "The cost-per-lead for the latest Google Ads campaign is $12."
+    },
+    {
+        "query": "How many customers redeemed the coupons from our last SMS campaign?",
+        "response": "A total of 500 customers redeemed the coupons from our last SMS campaign."
+    },
+    {
+        "query": "What is the customer sentiment about our new branding initiative?",
+        "response": "Customer sentiment about the new branding initiative is overwhelmingly positive, with an 85% approval rating."
+    },
+    {
+        "query": "What is the ROI for our most recent marketing event?",
+        "response": "The ROI for the most recent marketing event is 120%, exceeding expectations."
+    },
+    {
+        "query": "Which email subject line performed best in our last A/B test?",
+        "response": "The subject line 'Exclusive Offer Just for You!' performed best with a 25% open rate."
+    },
+    {
+        "query": "How many app downloads were generated from the recent campaign?",
+        "response": "The recent campaign generated 1,200 app downloads."
+    },
+    {
+        "query": "What is the engagement rate for our TikTok videos?",
+        "response": "The engagement rate for our TikTok videos is 10%."
+    },
+    {
+        "query": "How many impressions did our Instagram posts receive last week?",
+        "response": "Our Instagram posts received 150,000 impressions last week."
+    },
+    {
+        "query": "What is the bounce rate for our latest promotional landing page?",
+        "response": "The bounce rate for our latest promotional landing page is 35%."
+    },
+    {
+        "query": "How many customers used the referral program this quarter?",
+        "response": "This quarter, 300 customers used the referral program."
+    },
+    {
+        "query": "What percentage of customers are repeat buyers from the last campaign?",
+        "response": "25% of customers from the last campaign are repeat buyers."
+    },
+    {
+        "query": "What is the open rate for our weekly newsletters?",
+        "response": "The open rate for our weekly newsletters is 20%."
+    },
+    {
+        "query": "Which keywords brought the most traffic to our website this month?",
+        "response": "The keywords 'premium software' and 'AI analytics' brought the most traffic this month."
+    },
+    {
+        "query": "How many backlinks were generated from the latest press release?",
+        "response": "The latest press release generated 30 backlinks."
+    },
+    {
+        "query": "How many unique visitors did our blog receive last week?",
+        "response": "Our blog received 5,000 unique visitors last week."
+    },
+    {
+        "query": "What is the revenue generated from the recent holiday promotion?",
+        "response": "The recent holiday promotion generated $45,000 in revenue."
+    },
+    {
+        "query": "What is the cost-per-click for our Facebook ads?",
+        "response": "The cost-per-click for our Facebook ads is $0.75."
+    },
+    {
+        "query": "How many attendees joined our latest virtual event?",
+        "response": "The latest virtual event had 300 attendees."
+    },
+    {
+        "query": "What is the most popular product category this season?",
+        "response": "This season, our premium subscription service is the most popular product category."
+    },
+    {
+        "query": "How effective is the new pricing strategy in increasing sales?",
+        "response": "The new pricing strategy has resulted in a 15% increase in sales."
+    },
+    {
+        "query": "What percentage of customers engaged with our loyalty program?",
+        "response": "35% of customers engaged with our loyalty program this quarter."
+    },
+    {
+        "query": "What is the trend in cart abandonment rates this quarter?",
+        "response": "Cart abandonment rates have decreased by 5% this quarter."
+    },
+    {
+        "query": "How many customer reviews were received for the new product?",
+        "response": "The new product has received 120 customer reviews so far."
+    },
+    {
+        "query": "What is the lifetime value of customers acquired via email campaigns?",
+        "response": "The lifetime value of customers acquired via email campaigns is $250."
+    },
+    {
+        "query": "What percentage of our marketing budget is allocated to social media?",
+        "response": "45% of our marketing budget is allocated to social media campaigns."
+    },
+    {
+        "query": "How many leads converted into paying customers last month?",
+        "response": "Last month, 500 leads converted into paying customers."
+    },
+    {
+        "query": "What is the best-performing marketing channel this quarter?",
+        "response": "This quarter, social media advertising is the best-performing channel."
+    },
+    {
+        "query": "How many downloads did the eBook from our campaign achieve?",
+        "response": "The eBook from our campaign achieved 1,500 downloads."
+    },
+    {
+        "query": "What is the impact of seasonal promotions on overall sales?",
+        "response": "Seasonal promotions have increased overall sales by 20%."
+    },
+    {
+        "query": "How many users clicked the call-to-action button on the landing page?",
+        "response": "500 users clicked the call-to-action button on the landing page."
+    },
+    {
+        "query": "What percentage of ad impressions converted into sales?",
+        "response": "10% of ad impressions converted into sales."
+    },
+    {
+        "query": "What is the response rate for our customer satisfaction survey?",
+        "response": "The response rate for our customer satisfaction survey is 75%."
+    },
+    {
+        "query": "What is the effectiveness of personalized email campaigns compared to generic ones?",
+        "response": "Personalized email campaigns have shown a 25% higher open rate and a 15% higher click-through rate compared to generic ones, making them significantly more effective in engaging our audience."
+    }
+    
+]

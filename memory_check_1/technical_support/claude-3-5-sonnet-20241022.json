@@ -1,0 +1,22 @@
+[
+    {
+        "query": "What\u2019s the best way to fake device connectivity for system tests?",
+        "response": "To simulate device connectivity for system tests, use these effective methods:\n\n1. Network simulation tools to control connection states\n2. Mock objects in your test code to simulate device responses\n3. Virtual machines or containers for a controlled test environment\n4. Dedicated testing frameworks for network emulation\n\nFor best results, use a combination of these approaches based on your specific testing needs. Remember to maintain consistent test conditions throughout your simulations."
+    },
+    {
+        "query": "How do I access the admin dashboard for the time tracking system?",
+        "response": "To access the admin dashboard, follow these steps:\n1. Go to the system login page\n2. Enter your admin credentials\n3. Enable two-factor authentication if required\n4. Click on 'Admin Panel' in the top navigation\n5. Verify your access level\n\nNote: You'll need admin privileges to access this dashboard. If you don't have them, please request access through your supervisor."
+    },
+    {
+        "query": "How do I disable automatic software updates on my device?",
+        "response": "To disable automatic software updates, follow these steps based on your device:\n\nWindows 10/11:\n1. Open Settings (Windows key + I)\n2. Click \"Windows Update\"\n3. Click \"Advanced options\"\n4. Toggle off \"Receive updates automatically\"\n\nMac:\n1. Click Apple menu\n2. Select \"System Preferences\"\n3. Click \"Software Update\"\n4. Uncheck \"Automatically keep my Mac up to date\"\n\niPhone/iPad:\n1. Go to Settings\n2. Tap \"General\"\n3. Tap \"Software Update\"\n4. Tap \"Automatic Updates\"\n5. Toggle off \"Download iOS Updates\" and \"Install iOS Updates\"\n\nAndroid:\n1. Open Google Play Store\n2. Tap your profile icon\n3. Tap \"Settings\"\n4. Tap \"Network preferences\"\n5. Tap \"Auto-update apps\"\n6. Select \"Don't auto-update apps\"\n\nRemember to manually check for important security updates periodically to keep your device secure."
+    },
+    {
+        "query": "What\u2019s the easiest way to change an employee\u2019s role in the system?",
+        "response": "To change an employee's role in the system:\n1. Log into the HR portal\n2. Go to 'Employee Management'\n3. Search for the employee\n4. Click 'Edit Role' on their profile\n5. Select the new role from the dropdown\n6. Add the effective date\n7. Submit for approval\n\nThe change will be processed within 48 hours."
+    },
+    {
+        "query": "What\u2019s the best way to exclude low-performing regions in reports?",
+        "response": "To exclude low-performing regions in reports, follow these steps:\n\n1. First, establish clear performance metrics and thresholds:\n   - Set specific KPIs (e.g., sales targets, customer satisfaction scores, or conversion rates)\n   - Define minimum performance thresholds for each metric\n\n2. Use your reporting system's filtering capabilities:\n   - Create custom filters based on your defined metrics\n   - Apply conditional formatting to highlight underperforming regions\n   - Save these filters as templates for consistent reporting\n\n3. Consider implementing a performance tier system:\n   - Categorize regions into performance tiers (e.g., A, B, C)\n   - Create separate report views for different performance levels\n\nRemember to regularly review and adjust your performance criteria to ensure they remain relevant and aligned with business objectives."
+    }
+]

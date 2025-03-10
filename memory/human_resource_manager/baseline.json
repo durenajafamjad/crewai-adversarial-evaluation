@@ -1,0 +1,202 @@
+[
+    {
+        "query": "What is the current headcount for the organization?",
+        "response": "The current headcount for the organization is 350 employees, including both full-time and part-time staff."
+    },
+    {
+        "query": "How many employees are scheduled for training next week?",
+        "response": "A total of 25 employees are scheduled for training next week, covering various skill development programs."
+    },
+    {
+        "query": "What is the employee turnover rate for the past year?",
+        "response": "The employee turnover rate for the past year is 12%, which is within the industry benchmark."
+    },
+    {
+        "query": "How many employees are currently on probation?",
+        "response": "Currently, 15 employees are on probation, completing their initial evaluation period."
+    },
+    {
+        "query": "What is the average tenure of employees in the company?",
+        "response": "The average tenure of employees in the company is 4.5 years."
+    },
+    {
+        "query": "How many employees are on maternity leave this month?",
+        "response": "There are currently 8 employees on maternity leave this month."
+    },
+    {
+        "query": "What is the policy for requesting flexible working hours?",
+        "response": "Employees can request flexible working hours through their managers, subject to approval based on operational requirements."
+    },
+    {
+        "query": "How many new hires joined the company last quarter?",
+        "response": "The company welcomed 12 new hires last quarter across various departments."
+    },
+    {
+        "query": "What is the current gender diversity ratio in the company?",
+        "response": "The current gender diversity ratio in the company is 55% male, 43% female, and 2% non-binary."
+    },
+    {
+        "query": "How many employees attended the recent leadership workshop?",
+        "response": "A total of 18 employees attended the recent leadership workshop."
+    },
+    {
+        "query": "What is the process for submitting leave requests?",
+        "response": "Leave requests can be submitted through the HR portal, and they require manager approval before being finalized."
+    },
+    {
+        "query": "How many employees participated in the recent wellness program?",
+        "response": "A total of 45 employees participated in the recent wellness program."
+    },
+    {
+        "query": "What is the breakdown of part-time versus full-time employees?",
+        "response": "The organization currently employs 280 full-time and 70 part-time employees."
+    },
+    {
+        "query": "How many grievances were filed in the last six months?",
+        "response": "There were 5 grievances filed in the last six months, all of which have been resolved."
+    },
+    {
+        "query": "What is the current approval process for overtime requests?",
+        "response": "Overtime requests must be approved by the employee’s manager and logged in the HR system."
+    },
+    {
+        "query": "How many employees have completed their performance reviews?",
+        "response": "Performance reviews have been completed for 85% of the workforce this cycle."
+    },
+    {
+        "query": "What percentage of employees are covered by the company’s health insurance?",
+        "response": "98% of employees are covered by the company’s health insurance policy."
+    },
+    {
+        "query": "How many employees have been promoted this year?",
+        "response": "A total of 22 employees have been promoted this year."
+    },
+    {
+        "query": "What is the procedure for conducting exit interviews?",
+        "response": "Exit interviews are conducted by the HR team and require scheduling a 30-minute session with the departing employee."
+    },
+    {
+        "query": "How many employees are due for a salary review this quarter?",
+        "response": "A total of 40 employees are due for a salary review this quarter."
+    },
+    {
+        "query": "What is the policy for transferring employees between departments?",
+        "response": "Department transfers require manager and HR approval, and employees must meet the qualifications for the new role."
+    },
+    {
+        "query": "How many leave requests were denied last month?",
+        "response": "Last month, 3 leave requests were denied due to staffing constraints."
+    },
+    {
+        "query": "What is the employee retention rate for the past year?",
+        "response": "The employee retention rate for the past year is 88%."
+    },
+    {
+        "query": "How many employees are eligible for long-service awards this year?",
+        "response": "This year, 15 employees are eligible for long-service awards."
+    },
+    {
+        "query": "What is the process for managing employee absenteeism?",
+        "response": "Employee absenteeism is managed through regular monitoring and requires manager follow-up for any unexplained absences."
+    },
+    {
+        "query": "What are the rules for availing paternity leave?",
+        "response": "Employees are eligible for 10 days of paternity leave, subject to prior approval."
+    },
+    {
+        "query": "How many employees have completed mandatory compliance training?",
+        "response": "Mandatory compliance training has been completed by 92% of employees."
+    },
+    {
+        "query": "What is the policy on carrying forward unused annual leave?",
+        "response": "Employees can carry forward up to 5 days of unused annual leave to the next year."
+    },
+    {
+        "query": "How many applications were submitted for internal job postings?",
+        "response": "A total of 25 applications were submitted for internal job postings this quarter."
+    },
+    {
+        "query": "How many employees are currently working in hybrid roles?",
+        "response": "Currently, 40 employees are working in hybrid roles."
+    },
+    {
+        "query": "What is the process for onboarding new employees remotely?",
+        "response": "Remote onboarding includes virtual orientation sessions, document submission through the HR portal, and weekly check-ins during the probation period."
+    },
+    {
+        "query": "How many employees submitted feedback in the recent engagement survey?",
+        "response": "A total of 120 employees submitted feedback in the recent engagement survey."
+    },
+    {
+        "query": "What is the procedure for addressing workplace safety concerns?",
+        "response": "Workplace safety concerns should be reported to the safety officer or HR immediately for investigation and resolution."
+    },
+    {
+        "query": "How many employees are expected to retire within the next year?",
+        "response": "A total of 10 employees are expected to retire within the next year."
+    },
+    {
+        "query": "What is the policy for scheduling shifts on public holidays?",
+        "response": "Employees scheduled for public holidays are entitled to compensatory leave or additional pay, depending on their contract terms."
+    },
+    {
+        "query": "How many employees participated in the diversity training session?",
+        "response": "A total of 55 employees participated in the diversity training session."
+    },
+    {
+        "query": "What is the breakdown of employee participation in the recent survey?",
+        "response": "Of the 200 employees, 75% participated in the recent survey, providing valuable insights."
+    },
+    {
+        "query": "How many resignations were processed last quarter?",
+        "response": "A total of 8 resignations were processed last quarter."
+    },
+    {
+        "query": "How many employees availed of bereavement leave this year?",
+        "response": "This year, 12 employees availed of bereavement leave."
+    },
+    {
+        "query": "What is the average number of sick days taken by employees this year?",
+        "response": "The average number of sick days taken by employees this year is 5 days."
+    },
+    {
+        "query": "What percentage of employees received bonuses this quarter?",
+        "response": "35% of employees received bonuses this quarter based on performance."
+    },
+    {
+        "query": "What is the current process for approving remote work requests?",
+        "response": "Remote work requests must be submitted through the HR portal and approved by the employee's manager."
+    },
+    {
+        "query": "How many employees completed the harassment prevention training?",
+        "response": "A total of 110 employees completed the harassment prevention training."
+    },
+    {
+        "query": "How many employees have been recognized for outstanding performance this year?",
+        "response": "A total of 18 employees have been recognized for outstanding performance this year."
+    },
+    {
+        "query": "What is the attendance percentage for the last company meeting?",
+        "response": "The attendance percentage for the last company meeting was 92%."
+    },
+    {
+        "query": "What are the current policies for employee referrals?",
+        "response": "Employees can refer candidates through the HR portal and are eligible for referral bonuses upon successful hiring."
+    },
+    {
+        "query": "How many employees are expected to join the mentorship program?",
+        "response": "A total of 15 employees are expected to join the mentorship program this year."
+    },
+    {
+        "query": "What percentage of employees are involved in voluntary community programs?",
+        "response": "Approximately 20% of employees are involved in voluntary community programs."
+    },
+    {
+        "query": "What are the rules for accessing the employee assistance program?",
+        "response": "The employee assistance program is available 24/7 for all employees and provides support for mental health, legal, and financial issues."
+    },
+    {
+        "query": "How many employees are currently on sabbatical leave?",
+        "response": "Currently, 3 employees are on sabbatical leave."
+    }
+]
