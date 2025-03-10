@@ -1,5 +1,7 @@
 # Evaluating Vulnerabilities in Multi-Agent Systems: Extending Infectious Jailbreaks to Text-Based Attacks	
 
+## A research project in collaboration with Orq.ai (Amsterdam)
+
 A crew of 4 agents, excluding the manager, to perform customer service effectively using Crew AI.
 
 ## Types of Agents
