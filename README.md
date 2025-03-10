@@ -1,6 +1,6 @@
-# Customer Service Agent Using CrewAI
+# Evaluating Vulnerabilities in Multi-Agent Systems: Extending Infectious Jailbreaks to Text-Based Attacks	
 
-A crew of 4 agents, excluding the manager, to perform customer service effectively.
+A crew of 4 agents, excluding the manager, to perform customer service effectively using Crew AI.
 
 ## Types of Agents
 
